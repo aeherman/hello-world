@@ -1,4 +1,3 @@
 # hello-world
-practice repository to enter the world of github
-
-I am an MA student at QMSS who is struggling to balance all her committments
+## [Python Package](https://github.com/QMSS-G5072-2020/Final_Project_Herman_Arielle)
+This package was created as the final project for the course, Modern Data Structures in Fall 2020.
