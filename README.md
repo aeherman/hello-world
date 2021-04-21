@@ -1,6 +1,6 @@
 # Projects
 ## [Student Debt Visualization Website](https://github.com/QMSS-G5063-2021/Group_G_HigherEd_Review)
-[Shiny.io Website](https://github.com/QMSS-G5063-2021/Group_G_HigherEd_Review)
+See shiny.io website [here](https://ukipv4-connie-xu.shinyapps.io/Group_G_HigherEd_Review/) <br>
 This website visualizes student loans over time and was created for the final project of the course, Data Visualization, in Spring 2021.  It was the result of a team effort, and Arielle contributed by:
 1. building the structure of the shiny website
 2. visualizing the repayment rate trends under student loans
