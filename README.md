@@ -1,4 +1,4 @@
-# Projects
+# Public Projects
 ## [Updated MID Directed Dyad-Year Dataset](https://github.com/aeherman/sp22author) (May 2022)
 This project attempts to replicate the analysis of Peceny et al. in their 2002 to paper, "[Dictatorial Peace?](https://www.jstor.org/stable/3117807#metadata_info_tab_contents)", by creating an updated dataset and repeating analysis.
 
