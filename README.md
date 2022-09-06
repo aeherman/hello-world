@@ -3,6 +3,7 @@
 This project attempts to replicate the analysis of Peceny et al. in their 2002 to paper, "[Dictatorial Peace?](https://www.jstor.org/stable/3117807#metadata_info_tab_contents)", by creating an updated dataset and repeating analysis.
 
 ## [Civilian Complaint Review Board Exploration of Racial Inequalities](https://github.com/aeherman/ccrb_sp2021) (April 2021)
+See project report [here](https://github.com/aeherman/ccrb_sp2021/blob/main/reports/final_project.md)
 This project explores the July [2020 Propublica data](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers) for patterns related to the number of complaints lodged against officers and the demographics of complainants and officers.
 
 ## [Student Debt Visualization Website](https://github.com/QMSS-G5063-2021/Group_G_HigherEd_Review) (April 2021)
